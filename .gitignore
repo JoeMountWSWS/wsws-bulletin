@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# WSWS Bulletin specific
+output/
+*.wav
+*.mp3
+bulletin_*.md
+bulletin_*.txt
+.env.local
